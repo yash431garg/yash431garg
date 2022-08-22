@@ -7,7 +7,7 @@
 >Visit [yashgarg.me](http://www.yashgarg.me/) for more
 
 
-<h1 align="center">Hi 👋, I'm Yash Garg</h1>
+<h1 align="center">👋 Hi, I’m *Yash Garg*</h1>
 <h3 align="center">Passionate Programmer | Entrepreneur</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash431garg&label=Profile%20views&color=0e75b6&style=flat" alt="yash431garg" /> </p>
@@ -16,13 +16,13 @@
 
 - 🌱 I’m currently learning **Solidity, DSA**
 
-- 👨‍💻 All of my projects are available at [http://www.yashgarg.info/](http://www.yashgarg.info/)
+- 👀 I’m interested in business and technologies.
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/yash431garg/](https://www.linkedin.com/in/yash431garg/)
+- 🎒 I’m looking to collaborate on open source projects
+- 
+- 🤞🏻 Avaliable on twitter [yash431garg](https://twitter.com/Yash431garg
 
 - 💬 Ask me about **React, Redux, Node, Express, Sql-NoSql**
-
-- 📫 How to reach me **http://www.yashgarg.info/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
