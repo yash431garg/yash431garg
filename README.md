@@ -40,7 +40,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/yash431garg"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="yash431garg" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yash431garg&show_icons=true&locale=en&layout=compact" alt="yash431garg" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=yash431garg&show_icons=true&locale=en&layout=compact" alt="yash431garg" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yash431garg&show_icons=true&locale=en" alt="yash431garg" /></p>
 
