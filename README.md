@@ -2,11 +2,10 @@
 <h3=>Passionate Programmer | Entrepreneur</h3>
  
 - 👀 I’m interested in business and technologies.
-- 🌱 I’m currently learning **Solidity, DSA**
-- 👨🏼‍💻 I’m currently learning blockchain development.
+- 👨🏼‍💻 I’m currently learning **Solidity, DSA**
 - 🎒 I’m looking to collaborate on open source projects
 - 🤞🏻 Avaliable on twitter [yash431garg](https://twitter.com/Yash431garg)
-- - 💬 Ask me about **React, Redux, Node, Express, Sql-NoSql**
+- 💬 Ask me about **React, Redux, Node, Express, Sql-NoSql**
 >Visit [yashgarg.me](http://www.yashgarg.me/) for more
 
 
